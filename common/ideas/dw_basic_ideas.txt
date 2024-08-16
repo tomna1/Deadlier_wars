@@ -1,0 +1,36 @@
+leadership0 = {
+	category = MIL
+
+	bonus = {
+		army_tradition_decay = -0.01
+	}
+	
+	leadership1 = {
+		leader_cost = -0.2
+	}
+	leadership2 = {
+		leader_fire = 1
+		leader_naval_fire = 1
+	}
+	leadership3 = {
+		movement_speed = 0.1
+	}
+	leadership4 = {
+		leader_manuever = 1
+		leader_naval_manuever = 1
+	}
+	leadership5 = {
+		land_attrition = -0.15
+	}
+	leadership6 = {
+		yearly_army_professionalism = 0.01
+	}
+	leadership7 = {
+		leader_shock = 1
+		leader_naval_shock = 1
+	}
+
+	ai_will_do = {
+		factor = 5
+	}
+}

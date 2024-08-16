@@ -1,0 +1,50 @@
+#################################
+# Ages modifiers
+#################################
+ # 1530
+age_of_reformation_modifier = {
+	potential = {
+		current_age = age_of_reformation
+	}
+
+	trigger = {
+		current_age = age_of_reformation
+	}
+	fire_damage = 0.3
+	shock_damage = 0.3
+	fire_damage_received = 0.3
+	shock_damage_received = 0.3
+	military_tactics = -0.5
+}
+
+# 1620
+age_of_absolutism_modifier = {
+	potential = {
+		current_age = age_of_absolutism
+	}
+
+	trigger = {
+		current_age = age_of_absolutism
+	}
+	fire_damage = 0.6
+	shock_damage = 0.6
+	fire_damage_received = 0.6
+	shock_damage_received = 0.6
+	military_tactics = -1.0
+}
+
+# 1710
+age_of_revolutions_modifiers = {
+	potential = {
+		current_age = age_of_revolutions
+	}
+
+	trigger = {
+		current_age = age_of_revolutions
+	}
+	fire_damage = 0.9
+	shock_damage = 0.9
+	fire_damage_received = 0.9
+	shock_damage_received = 0.9
+	military_tactics = -1.5
+}
